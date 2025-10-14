@@ -1,2 +1,4 @@
-# mlph-25w
-Material for the lecture Machine Learning in Physics
+# Machine Learning and Physics Exercises (W25/26)
+
+In this repository, you will find all material for the exercises to the Machine Learning and Physics lecture.
+
