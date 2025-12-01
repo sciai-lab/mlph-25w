@@ -7,4 +7,6 @@ ipykernel
 jupyter
 scikit-learn
 torch
+torchvision
 pandas
+h5py
